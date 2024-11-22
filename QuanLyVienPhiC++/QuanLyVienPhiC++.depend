@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1718840941 source:c:\users\bestp\documents\codeblock\quanlyvienphic++\quanlyvienphic++.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<string>
+	<regex>
+	<conio.h>
+
+1718841244 source:c:\users\bestp\documents\codeblock\quanlyvienphic++\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<string>
+	<regex>
+	<conio.h>
+
